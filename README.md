@@ -1,2 +1,2 @@
 # Salary-Analyzer
-Experimented with pandas for quick analysis with employee salary data.
+This Python program processes employee payroll data using pandas and statistics libraries. It reads a CSV file containing employee information, calculates each employee's total pay by multiplying hours worked with their hourly rate, and adds this as a new column to the DataFrame. The updated data is then exported to a new CSV file. As an extra feature, the program computes and prints the average total pay across all employees, providing a simple but effective analysis of salary distribution.
